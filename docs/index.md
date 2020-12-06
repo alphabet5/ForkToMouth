@@ -4,9 +4,8 @@ Here there is (going to be) an abundance of venison recipes.
 
 Goals:
 - Improve the utilization of harvested animals.
-- Improve individuals outlook on wild game.
+- Improve the outlook on wild game.
 - Reduce supply-chain inefficiencies and negative externalities.
-- Encourage quality family time and motivation for the outdoors.
 
 Success Stories:
 
@@ -22,7 +21,7 @@ This sites contents are hosted on github located at [alphabet5/ForkToMouth.](htt
 - [2020-12.02 - Smoked Venison Steak](recipes/2020-12.02-smoked-steak.md)
 - [2020-12.03 - Cranberry Venison Roast](recipes/2020-12.03-cranberry-roast.md)
 - [2020-12.04 - Pulled Venison](recipes/2020-12.04-pulled-venison.md)
-- [2020-12.05 - Venison Ribs](recipes/2020-12.05-pulled-venison.md)
+- [2020-12.05 - Venison Ribs](recipes/2020-12.05-venison-ribs.md)
 - [2020-12.06 - Venison Ramen](recipes/2020-12.06-venison-ramen.md)
 - [2020-12.07 - Venison Burgers](recipes/2020-12.07-venison-burgers.md)
 
@@ -38,7 +37,7 @@ Sides are great to mix with many different recipes. These are just some ideas / 
     - [2020-12.02 - Smoked Venison Steak](recipes/2020-12.02-smoked-steak.md)
     - [2020-12.03 - Cranberry Venison Roast](recipes/2020-12.03-cranberry-roast.md)
 - Ribs
-    - [2020-12.05 - Venison Ribs](recipes/2020-12.05-pulled-venison.md)
+    - [2020-12.05 - Venison Ribs](recipes/2020-12.05-venison-ribs.md)
 - Shanks and Neck
     - [2020-12.04 - Pulled Venison](recipes/2020-12.04-pulled-venison.md)
 
