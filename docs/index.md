@@ -1,7 +1,5 @@
 # ![](images/fork.jpg) ForkToMouth Overview
 
-Here there is (going to be) an abundance of venison recipes. 
-
 Goals:
 - Improve the utilization of harvested animals.
 - Improve the outlook on wild game.
