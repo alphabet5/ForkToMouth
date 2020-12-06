@@ -15,7 +15,9 @@ Success Stories:
 
 This sites contents are hosted on github located at [alphabet5/ForkToMouth.](https://github.com/alphabet5/ForkToMouth) Feel free to provide pull requests, comments and suggestions there.
 
-## Recipes by Index
+## Recipes by Index 
+
+[![Feedly button](https://s3.feedly.com/img/follows/feedly-follow-rectangle-flat-big_2x.png "Follow on Feedly")](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fforktomouth.jburt.me%2Ffeed_rss_created.xml)
 
 - [2020-12.01 - Venison Chiclets](recipes/2020-12.01-chiclets.md)
 - [2020-12.02 - Smoked Venison Steak](recipes/2020-12.02-smoked-steak.md)
