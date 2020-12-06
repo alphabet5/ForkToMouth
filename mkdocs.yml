@@ -1,0 +1,24 @@
+site_name: ForkToMouth
+site_url: https://forktomouth.jburt.me/
+repo_name: alphabet5/ForkToMouth
+repo_url: https://github.com/alphabet5/ForkToMouth
+
+markdown_extensions:
+  - codehilite
+
+theme:
+  name: material
+  features:
+      - tabs
+use_directory_urls: false
+
+plugins:
+  - search
+  - rss
+
+nav:
+  - Overview: index.md
+  - Recipes By Index:
+    - 2020-12.01 Garlic Chiclets: recipes/2020-12.01-chiclets.md
+    - 2020-12.02 Smoked Venison Steak: recipes/2020-12.02-smoked-steak.md
+    - 2020-12.03 Cranberry Venison Roast: recipes/2020-12.03-cranberry-roast.md
